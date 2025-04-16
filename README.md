@@ -14,8 +14,8 @@ Testbench included for verification with various test cases.
 📁 Project Structure
 ```
 ├── src/
-│   ├── sqrt_calculator.v         # Main module
-│   └── sqrt_calculator_tb.v      # Testbench for simulation
+│   ├── non_restoring_sqrt.v        # Main module
+│   └── tb_non_restoring_sqrt.v     # Testbench for simulation
 ├── README.md
 ```
 ⚙️ How It Works
