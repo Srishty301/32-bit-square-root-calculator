@@ -12,11 +12,12 @@ Designed using combinational and/or sequential logic.
 Testbench included for verification with various test cases.
 
 📁 Project Structure
+--
 ├── src/
 │   ├── sqrt_calculator.v         # Main module
 │   └── sqrt_calculator_tb.v      # Testbench for simulation
 ├── README.md
-
+--
 ⚙️ How It Works
 The calculator uses a non-restoring algorithm or binary search method (depending on the design) to compute the square root efficiently in hardware. It iteratively evaluates the bits of the square root from MSB to LSB.
 
